@@ -1,0 +1,25 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "A movie review platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imdb",
+    "node.js"
+  ],
+  "author": "So Called Engineer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "mongoose": "^5.6.11",
+    "multer": "^1.4.2",
+    "path": "^0.12.7"
+  }
+}
